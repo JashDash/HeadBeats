@@ -1,13 +1,1 @@
-{
-    "AllSongs":[],
-    
-    "AllPlaylists": [
-    { 
-      "Name": "Punjabi Songs",
-      "ContentOfPlaylist": []
-    },
-    { 
-      "Name": "English Songs",
-      "ContentOfPlaylist": []
-    }
-  ]}
+{"AllSongs":[{"Id":1,"Source":"E:\\Songs\\Singles\\Maroon 5 - Maps.mp3","Title":"Maps","Duration":189.98857142857142,"DisplayDuration":"3min 10sec","Tags":[]},{"Id":2,"Source":"E:\\Songs\\Hozier - Hozier\\Hozier - Take Me To Church.flac","Title":"Take Me To Church","Duration":241.68848072562358,"DisplayDuration":"4min 2sec","Tags":[]}],"AllPlaylists":[{"Name":"Punjabi Songs","ContentOfPlaylist":[]},{"Name":"English Songs","ContentOfPlaylist":[]}]}
